@@ -31,7 +31,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"WaStartMap.json"
+                 "value":"WaStartMap.json#returnFromHausNikolaus"
                 }],
          "type":"tilelayer",
          "visible":true,
