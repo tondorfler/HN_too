@@ -65,7 +65,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"viewFile",
+                 "name":"open",
                  "type":"file",
                  "value":"src\/assets\/DSC03687.jpg"
                 }],
